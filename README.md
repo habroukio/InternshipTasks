@@ -14,6 +14,14 @@ Handling inverted matches (-v) because booleans are tricky in bash.
 Also making sure line numbers are correct if -n is used.
 
 screenshots:
+
 ![image](https://github.com/user-attachments/assets/d2e5e88a-16fa-48b0-a63e-e39376b1de67)
+
+![image](https://github.com/user-attachments/assets/b3ab6720-595d-42fb-8dd3-3aabfd01f997)
+
+![image](https://github.com/user-attachments/assets/de52d748-fe7f-4ba5-82fd-4cf81b3af06c)
+![image](https://github.com/user-attachments/assets/aa6179fd-1ac3-4b4f-aaf6-b7dd1bd4fabf)
+
+
 
 

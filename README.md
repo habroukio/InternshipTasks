@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75cb2780-0f69-4299-bbab-4d9c1db3bca8)1.How the script handles arguments and options:
+1.How the script handles arguments and options:
 It uses getopts to understand options (-n and -v).
 After options, it expects exactly 2 arguments: search string and filename.
 It checks if the file exists.
@@ -23,5 +23,5 @@ screenshots:
 ![image](https://github.com/user-attachments/assets/aa6179fd-1ac3-4b4f-aaf6-b7dd1bd4fabf)
 
 
-
+![image](https://github.com/user-attachments/assets/75cb2780-0f69-4299-bbab-4d9c1db3bca8)
 
